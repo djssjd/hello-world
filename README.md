@@ -1,2 +1,5 @@
 # hello-world
-a test repository
+
+Hi Humans!
+
+DJS here, I am learning Github at this time.
